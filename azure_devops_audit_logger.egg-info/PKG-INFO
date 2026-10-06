@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: azure-devops-audit-logger
+Version: 1.0.0
+Requires-Python: ==3.13.*
+Requires-Dist: fastapi<1.0,>=0.115
+Requires-Dist: uvicorn<1.0,>=0.30
+Requires-Dist: requests<3.0,>=2.32
+Requires-Dist: python-dotenv<2.0,>=1.1
+Requires-Dist: pydantic<3.0,>=2.0
+Requires-Dist: langchain<1.0,>=0.3.0
+Requires-Dist: langchain-core<1.0,>=0.3.68
+Requires-Dist: langchain-google-genai<4.0,>=2.1.0
+Requires-Dist: langgraph<1.0,>=0.6.0
